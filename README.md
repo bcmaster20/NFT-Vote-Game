@@ -1,4 +1,4 @@
-# Simple hardhat react daap(javascript)
+# Vote Game
 ## Development setup
 
 1. Clone this repo
