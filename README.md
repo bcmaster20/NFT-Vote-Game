@@ -1,4 +1,4 @@
-# Vote Game
+# Vote Game(Rinkeby TestNet)
 ## Development setup
 
 1. Clone this repo
